@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+backend/venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Node/Vite build and dependencies
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+*.log
+
+# Environment variables
+.env
+backend/.env
+*.env.local
+*.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+.gemini/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
